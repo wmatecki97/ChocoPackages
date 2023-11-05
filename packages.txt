@@ -1,29 +1,28 @@
-7zip.install 23.1.0
-adobereader 2023.3.20269
-brave 1.57.49
-chocolatey 2.2.2
-chocolatey-compatibility.extension 1.0.0
-chocolatey-core.extension 1.4.0
-chocolatey-visualstudio.extension 1.11.0
-chocolatey-windowsupdate.extension 1.0.5
-dbeaver 23.1.5
-discord 1.0.9005
-discord.install 1.0.9005
-filezilla 3.65.0
-git.install 2.41.0
-lightshot 5.5.0.720221014
-notepadplusplus.install 8.5.6
-nvm 1.1.9
-nvm.install 1.1.11
-Opera 101.0.4843.58
-putty.install 0.78.0
-python311 3.11.4
-slack 4.32.127
-sql-server-management-studio 19.1.56
-steam 2.10.91.91221129
-visualstudio-installer 2.0.3
-vlc 3.0.18
-vlc.install 3.0.18
-vscode 1.80.1
-vscode.install 1.80.1
-FileZilla
+7zip.install
+adobereader
+brave
+chocolatey
+chocolatey-compatibility.extension
+chocolatey-core.extension
+chocolatey-visualstudio.extension
+chocolatey-windowsupdate.extension
+dbeaver
+discord
+discord.install
+filezilla
+git.install
+lightshot
+notepadplusplus.install
+nvm
+nvm.install
+Opera
+putty.install
+python311
+slack
+sql-server-management-studio
+steam
+visualstudio-installer
+vlc
+vlc.install
+vscode
+vscode.install
